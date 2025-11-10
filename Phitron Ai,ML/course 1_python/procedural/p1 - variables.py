@@ -1,4 +1,4 @@
-# --- variables in python  ---
+# --- Variables in python  ---
 
 # 1)---string
 
